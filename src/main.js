@@ -56,7 +56,10 @@ console.log(5===5);
 5 !== 5
 console.log(5 !== 5);
 
-// 20. It concats as a string, like i we want to console 5 + '5', Output will be 55
+// 20. It concats as a string, like i we want to console 5 + '5', Output will be 55.
+
+// Thank you for a good brainStorming <3
+
 
 
 
