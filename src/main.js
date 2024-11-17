@@ -32,9 +32,9 @@ console.log(`Next year you will be ${nextAge}`);
 // 11. In this code, the main issue lies in the first line. We want to prompt the user for their age, but we should ensure that the input is treated as a number. Instead of creating a new variable, I would use age++ to increment the age directly.
 
 // 12
-let name = prompt('What is your name?');
-let age2 = Number(prompt('How old are you?'));
-let isInSixties = age >= 60 && age <= 69;// finish the code so that it prints true if the age is in 60s
+let name = prompt("What is your name?");
+let age2 = Number(prompt("How old are you?"));
+let isInSixties = age2 >= 60 && age2 <= 69; // finish the code so that it prints true if the age is in 60s
 console.log(`${name} is in sixties: ${isInSixties}`);
 
 // 13. The value of first output is 5, but after this code runs x will become 6
@@ -48,18 +48,14 @@ console.log(`${name} is in sixties: ${isInSixties}`);
 // 17 undefined
 
 // 18 equality opperator
-5 === 5
-console.log(5===5);
+5 === 5;
+console.log(5 === 5);
 
 // 19 not equality
 
-5 !== 5
+5 !== 5;
 console.log(5 !== 5);
 
 // 20. It concats as a string, like i we want to console 5 + '5', Output will be 55.
 
 // Thank you for a good brainStorming <3
-
-
-
-
